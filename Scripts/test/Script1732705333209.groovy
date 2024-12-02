@@ -19,5 +19,3 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('google.com')
 
-WebUI.openBrowser('google.com')
-
